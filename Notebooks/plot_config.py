@@ -6,7 +6,7 @@ def set_plot_style():
     # General figure settings
     plt.rcParams.update({
         'figure.dpi': 300,
-        'figure.figsize': (8, 6),
+        'figure.figsize': (4, 4),
         'lines.linewidth': 1.5,
         'lines.dash_capstyle': 'round',
         'font.family': 'Arial',
@@ -42,7 +42,7 @@ def set_plot_style():
     # dlpfc_c = np.array([1, 0.06275, 0.06275])
 
     # Seaborn style and context
-    sns.set_style("whitegrid")
+    # sns.set_style("whitegrid")
     # sns.set_palette("colorblind")
     sns.set_context("paper", font_scale=1.5)
 

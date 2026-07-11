@@ -1,0 +1,43 @@
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# === Cursor / debug logs ===
+.cursor/
+**/.cursor/
+*.log
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+.ipynb_checkpoints/
+.cache/
+
+# === Large data / analysis artifacts (regenerable; keep OUT of git) ===
+# Model fits / posteriors
+fits/
+*.nc
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Analysis + oscillation outputs (includes their figure PDFs)
+analysis_outputs/
+oscillation_outputs/

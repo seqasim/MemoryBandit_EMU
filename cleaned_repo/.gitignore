@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis outputs / data artifacts
+analysis_outputs/
+oscillation_outputs/
+fits/
+*.fif
+*.nc
+*.h5
+*.hdf5
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local venv / caches
+.venv/
+.cache/

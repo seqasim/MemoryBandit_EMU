@@ -1,0 +1,1 @@
+subject,event,phase_roi,amp_roi,phase_channel,amp_channel,hemi,pair_key,pac_file,predictor,covariates,status,reason,n_aligned_trials,n_clusters,n_sig_clusters,min_sig_p,max_sig_abs_mass,df_resid,tcrit,plot_path,elapsed_sec

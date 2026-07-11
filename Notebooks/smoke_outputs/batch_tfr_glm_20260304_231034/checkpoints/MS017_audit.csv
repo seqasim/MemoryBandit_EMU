@@ -1,0 +1,56 @@
+subject,electrode,region,event,predictor,covariates,status,reason,n_aligned_trials,n_clusters,n_sig_clusters,min_sig_p,max_sig_abs_mass,df_resid,tcrit,plot_path,elapsed_sec
+MS017,lacas1-lacas2,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,63,0,,,75.0,1.9921021540022417,,1.8231928340392187
+MS017,lacas2-lacas3,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,66,0,,,75.0,1.9921021540022417,,1.790481792006176
+MS017,lacas3-lacas4,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,67,0,,,75.0,1.9921021540022417,,1.6863200410152785
+MS017,lacas4-lacas5,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,62,1,0.004975124378109453,5679.050273509132,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lacas4-lacas5_feedback_start.png,2.667090167000424
+MS017,lacas5-lacas6,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,1,0.009950248756218905,3255.4840483985927,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lacas5-lacas6_feedback_start.png,2.703904666006565
+MS017,lacas6-lacas7,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,1,0.029850746268656716,2019.9852512231303,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lacas6-lacas7_feedback_start.png,2.7112612909986638
+MS017,lacas7-lacas8,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,49,0,,,75.0,1.9921021540022417,,1.7050935410079546
+MS017,lacas8-lacas9,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,62,0,,,75.0,1.9921021540022417,,1.7135462919832207
+MS017,lacas9-lacas10,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,47,0,,,75.0,1.9921021540022417,,1.68976224999642
+MS017,laglt1-laglt2,AMY,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,58,0,,,75.0,1.9921021540022417,,1.7112338749575429
+MS017,laglt2-laglt3,AMY,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,0,,,75.0,1.9921021540022417,,1.7353465830092318
+MS017,laglt4-laglt5,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,55,0,,,75.0,1.9921021540022417,,1.7429036250105128
+MS017,laglt5-laglt6,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,53,0,,,75.0,1.9921021540022417,,1.7335390830412507
+MS017,laglt6-laglt7,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,56,0,,,75.0,1.9921021540022417,,1.7197576250182465
+MS017,laglt7-laglt8,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,58,0,,,75.0,1.9921021540022417,,2.0607878750306554
+MS017,laglt8-laglt9,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,52,0,,,75.0,1.9921021540022417,,1.7278707079822198
+MS017,lalps1-lalps2,AINS,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,70,1,0.03482587064676617,2427.331504851596,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lalps1-lalps2_feedback_start.png,2.6421794579946436
+MS017,lalps2-lalps3,AINS,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,1,0.004975124378109453,6579.7589814228995,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lalps2-lalps3_feedback_start.png,2.9388430829858407
+MS017,lalps3-lalps4,vlPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,64,2,0.014925373134328358,2759.6344339459138,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lalps3-lalps4_feedback_start.png,2.6397930000093766
+MS017,lalps10-lalps11,dlPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,62,0,,,75.0,1.9921021540022417,,1.8884107079938985
+MS017,lalps11-lalps12,dlPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,48,0,,,75.0,1.9921021540022417,,1.7369438750320114
+MS017,lalps12-lalps13,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,0,,,75.0,1.9921021540022417,,1.6434838750283234
+MS017,lhplt1-lhplt2,HPC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,70,0,,,75.0,1.9921021540022417,,1.7755111249862239
+MS017,lhplt2-lhplt3,HPC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,61,0,,,75.0,1.9921021540022417,,1.8375249590026215
+MS017,lhplt7-lhplt8,STS,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,64,0,,,75.0,1.9921021540022417,,1.7158288339851424
+MS017,lhplt8-lhplt9,STS,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,63,0,,,75.0,1.9921021540022417,,1.8798403749824502
+MS017,lllt1-lllt2,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,71,0,,,75.0,1.9921021540022417,,1.7081590419984423
+MS017,lllt5-lllt6,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,54,0,,,75.0,1.9921021540022417,,1.6502256669919007
+MS017,lmcms1-lmcms2,ACC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,54,0,,,75.0,1.9921021540022417,,1.6538809170015156
+MS017,lmcms2-lmcms3,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,62,0,,,75.0,1.9921021540022417,,1.6075858749682084
+MS017,lmcms3-lmcms4,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,65,0,,,75.0,1.9921021540022417,,1.7503101670299657
+MS017,lmcms6-lmcms7,dmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,57,0,,,75.0,1.9921021540022417,,1.791246125008911
+MS017,lmlbr1-lmlbr2,Motor,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,49,0,,,75.0,1.9921021540022417,,1.719101291964762
+MS017,lmlbr2-lmlbr3,Motor,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,42,0,,,75.0,1.9921021540022417,,1.71280174999265
+MS017,lmlbr3-lmlbr4,Motor,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,0,,,75.0,1.9921021540022417,,1.6981265000067651
+MS017,lmolf1-lmolf2,OFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,59,0,,,75.0,1.9921021540022417,,1.6886575000244193
+MS017,lmolf2-lmolf3,OFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,62,0,,,75.0,1.9921021540022417,,1.9126641670009121
+MS017,lmolf3-lmolf4,OFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,61,1,0.029850746268656716,2668.6708781344446,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_lmolf3-lmolf4_feedback_start.png,2.6294656670070253
+MS017,lmolf4-lmolf5,OFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,61,0,,,75.0,1.9921021540022417,,1.729208875040058
+MS017,lmolf5-lmolf6,vmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,51,0,,,75.0,1.9921021540022417,,1.7259403750067577
+MS017,lmolf6-lmolf7,vmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,66,0,,,75.0,1.9921021540022417,,1.7386464169831015
+MS017,lmolf7-lmolf8,vmPFC,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,66,0,,,75.0,1.9921021540022417,,1.781337542051915
+MS017,lpcwr7-lpcwr8,Unknown,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,58,0,,,75.0,1.9921021540022417,,1.8168292499613017
+MS017,lpcwr8-lpcwr9,Unknown,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,68,0,,,75.0,1.9921021540022417,,1.7919270839774981
+MS017,lpcwr9-lpcwr10,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,66,0,,,75.0,1.9921021540022417,,1.6936241670046002
+MS017,lpcwr10-lpcwr11,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,60,0,,,75.0,1.9921021540022417,,1.7197290409822017
+MS017,lplsp1-lplsp2,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,59,0,,,75.0,1.9921021540022417,,1.7429208329995163
+MS017,lplsp2-lplsp3,Temporal,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,55,0,,,75.0,1.9921021540022417,,1.7224773340276442
+MS017,lplsp8-lplsp9,Unknown,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,53,0,,,75.0,1.9921021540022417,,1.7941335419891402
+MS017,ltplt1-ltplt2,Temporal Pole,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,59,0,,,75.0,1.9921021540022417,,1.9866663750144653
+MS017,ltplt2-ltplt3,Temporal Pole,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,53,0,,,75.0,1.9921021540022417,,1.7573194170254283
+MS017,ltplt3-ltplt4,Temporal Pole,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,53,0,,,75.0,1.9921021540022417,,1.7010219999938272
+MS017,ltplt4-ltplt5,Unknown,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,68,1,0.014925373134328358,2535.4902359293337,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_ltplt4-ltplt5_feedback_start.png,2.7590298750437796
+MS017,ltplt5-ltplt6,Unknown,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,61,1,0.03482587064676617,1929.1973741533893,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS017/tfr_glm_sig_MS017_ltplt5-ltplt6_feedback_start.png,2.6830950420117006
+MS017,ltplt6-ltplt7,Temporal Pole,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,57,0,,,75.0,1.9921021540022417,,1.6825317079783417

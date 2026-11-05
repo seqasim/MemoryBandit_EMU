@@ -25,7 +25,7 @@ function cfg = config_paths()
     cfg.ephys_dir = fullfile(base_dir, 'projects', 'guLab', 'Salman', 'EphysAnalyses');
     cfg.mvpa_dir  = fullfile(base_dir, 'scratch', 'MemoryBandit', 'MVPA');
 
-    % Prefer hierarchical pyEM RW tables (*_RWH_v2.csv) per Methods; fall back to *_RWH.csv
+    % Resolve behavior CSV paths
     learn_v2 = fullfile(cfg.load_dir, 'learn_df_RWH_v2.csv');
     if exist(learn_v2, 'file')
         cfg.learn_csv = learn_v2;

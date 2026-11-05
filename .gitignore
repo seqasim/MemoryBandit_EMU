@@ -1,13 +1,13 @@
 # === Local-only workspace directories (excluded from GitHub; kept on disk) ===
-Notebooks/
-cleaned_repo/
-manuscript_repo/
-pyem-model-generator/
-troubleshootingMVGC/
-Data/
-results/
-.tmp_cell_extract/
-Rplots.pdf
+/Notebooks/
+/cleaned_repo/
+/manuscript_repo/
+/pyem-model-generator/
+/troubleshootingMVGC/
+/Data/
+/results/
+/.tmp_cell_extract/
+/Rplots.pdf
 
 # === OS / editor ===
 .DS_Store

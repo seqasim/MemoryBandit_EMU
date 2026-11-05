@@ -13,7 +13,6 @@ This repository contains the self-contained Python, MATLAB, and R analysis code 
 |---|---|
 | **[`EMU_manuscript/FIGURE_MAP.md`](EMU_manuscript/FIGURE_MAP.md)** | Complete panel-by-panel mapping of **Figures 1–5**, **Figures S1–S13**, **Tables S1–S2**, and in-text statistics to exact notebooks, MATLAB scripts, and R scripts |
 | **[`EMU_manuscript/DATA_LAYOUT.md`](EMU_manuscript/DATA_LAYOUT.md)** | Expected directory structure under `$MEMORYBANDIT_DATA_DIR` and column schemas for behavioral CSVs, electrode tables, MNE epochs, and TFR files |
-| **[`EMU_manuscript/METHODS_ALIGNMENT.md`](EMU_manuscript/METHODS_ALIGNMENT.md)** | Summary of code-to-Methods parameter alignments and verification notes |
 | **[`EMU_manuscript/matlab/README.md`](EMU_manuscript/matlab/README.md)** | Detailed instructions for running the MVPA-Light MATLAB decoding and activation-pattern scripts |
 
 ---
@@ -25,7 +24,6 @@ EMU_manuscript/
 ├── README.md                  # This guide: system requirements, installation, demo, run order
 ├── FIGURE_MAP.md              # Figure/table/stat -> code & section lookup table
 ├── DATA_LAYOUT.md             # Expected data directory layout & file schemas
-├── METHODS_ALIGNMENT.md       # Audit of Methods parameter alignment
 ├── LICENSE                    # MIT License
 ├── pyproject.toml             # Installable membandit + rlmodels_k99 + pyem package config
 ├── requirements.txt           # Pinned Python dependencies

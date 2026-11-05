@@ -1,3 +1,14 @@
+# === Local-only workspace directories (excluded from GitHub; kept on disk) ===
+Notebooks/
+cleaned_repo/
+manuscript_repo/
+pyem-model-generator/
+troubleshootingMVGC/
+Data/
+results/
+.tmp_cell_extract/
+Rplots.pdf
+
 # === OS / editor ===
 .DS_Store
 Thumbs.db
@@ -26,10 +37,11 @@ dist/
 *.egg
 .ipynb_checkpoints/
 .cache/
+.pytest_cache/
 
 # === Large data / analysis artifacts (regenerable; keep OUT of git) ===
-# Model fits / posteriors
 fits/
+*.fif
 *.nc
 *.h5
 *.hdf5
@@ -37,7 +49,7 @@ fits/
 *.joblib
 *.npz
 *.npy
-
-# Analysis + oscillation outputs (includes their figure PDFs)
 analysis_outputs/
 oscillation_outputs/
+EMU_manuscript/results/
+EMU_manuscript/figures/

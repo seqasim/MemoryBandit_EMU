@@ -1,2 +1,0 @@
-subject,electrode,region,event,predictor,covariates,status,reason,n_aligned_trials,n_clusters,n_sig_clusters,min_sig_p,max_sig_abs_mass,df_resid,tcrit,plot_path,elapsed_sec
-MS030,lsipt2-lsipt3,AINS,feedback_start,zrpe,"zpm,pgamble,preward",ok,,80,65,1,0.04975124378109453,1716.4418522016936,75.0,1.9921021540022417,/Users/salmanqasim/Documents/GitRepos/MemoryBandit_EMU/Notebooks/smoke_outputs/batch_tfr_glm_20260304_231034/plots/MS030/tfr_glm_sig_MS030_lsipt2-lsipt3_feedback_start.png,3.014252833032515

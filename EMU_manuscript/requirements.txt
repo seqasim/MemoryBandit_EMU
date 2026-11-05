@@ -1,0 +1,37 @@
+# Core scientific & iEEG stack (tested with Python 3.10–3.12; pinned reference versions from author environment)
+numpy>=1.24,<3.0
+pandas>=2.0,<4.0
+scipy>=1.11,<2.0
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+scikit-learn>=1.3,<2.0
+statsmodels>=0.14,<1.0
+patsy>=0.5,<2.0
+mne>=1.6,<2.0
+mne-connectivity>=0.8,<1.0
+joblib>=1.3,<2.0
+tqdm>=4.65,<5.0
+nibabel>=5.1,<6.0
+nilearn>=0.10,<1.0
+openpyxl>=3.1,<4.0
+h5py>=3.9,<4.0
+
+# Spectral parameterization / oscillation analyses (Fig 5B, BOSC)
+fooof>=1.1
+neurodsp>=2.2
+
+# Notebooks & testing
+jupyter>=1.0
+ipykernel>=6.25
+nbformat>=5.9
+pytest>=7.4
+pyflakes>=3.0
+
+# Hierarchical RL modeling (Fig 1C-E, S1, S2B-C; pinned commit per Methods)
+pyem @ git+https://github.com/shawnrhoads/pyEM.git@c0d09807e26e7abaf3170366ca9f8a7e827ec063
+
+# Note on external git dependencies (see README.md for details):
+# - Multivariate GC-PAC (Fig S12): install patched tensorpac fork:
+#     pip install git+https://github.com/seqasim/tensorpac.git@33dcbf5
+# - BOSC burst detection (Fig 5 text): install LFPAnalysis:
+#     pip install git+https://github.com/seqasim/LFPAnalysis.git@f0ca5b4

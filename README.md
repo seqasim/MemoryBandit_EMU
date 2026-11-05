@@ -1,6 +1,13 @@
 # Hippocampal-Cingulate Dynamics in the Human Brain Link Reinforcement-Learning and Memory — Manuscript Reproducibility Package
 
-This repository contains the self-contained Python, MATLAB, and R analysis code for reproducing all figures, supplementary figures, tables, and statistical analyses reported in:
+> ## **DISCLAIMER**
+>
+> 1. **Not for exact figure reproduction without the empirical dataset:** This repository provides the analysis and plotting code accompanying the manuscript, but **it cannot reproduce the exact figures or numerical results in the paper on its own** because doing so requires the empirical patient and behavioral dataset, which is **not publicly shared at this time** due to human-subjects privacy restrictions (see Data Availability in the manuscript).
+> 2. **Potential translation errors:** In refactoring and packaging our internal research codebase into a self-contained repository for general/public use, **some errors or discrepancies may have been introduced in translation**. The authors would be happy to address and resolve any issues upon notification (please open a GitHub issue or contact the corresponding author at `salman.qasim@rutgers.edu`).
+
+---
+
+This repository contains the self-contained Python, MATLAB, and R analysis code accompanying:
 
 > **Hippocampal-cingulate dynamics in the human brain link reinforcement-learning and memory**  
 > Salman E. Qasim, Fedor Panov, Lizbeth Nunez, Ariane E. Rhone, Hiroto Kawasaki, Christopher Kovach, Christopher Garcia, Brian Dlouhy, Xiaosi Gu\*, and Ignacio Saez\*
